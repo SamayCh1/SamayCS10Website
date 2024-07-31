@@ -22,7 +22,7 @@ h1{
     
 }
 
-li {
+#nav {
     display: inline;
     padding: 0px 10px 0px 10px;
 
@@ -47,4 +47,13 @@ li {
 #contactin {
     width: 300px;
 
+}
+
+#mess {
+    width: 300px;
+
+}
+
+ol {
+    list-style-position: inside;
 }
